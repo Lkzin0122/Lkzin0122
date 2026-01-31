@@ -8,7 +8,7 @@ Tenho interesse especial em entender como os sistemas funcionam por completo, de
 
 <p>
     <a>
-    <a href="https://www.linkedin.com/in/lucas-bitencourt-1234b121b3/">
+    <a href="https://www.linkedin.com/in/bitencourtlucas/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
