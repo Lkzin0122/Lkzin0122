@@ -117,7 +117,6 @@ Tenho interesse especial em entender como os sistemas funcionam por completo, de
 
 <br/>
 
-![snake gif](https://github.com/Lkzin0122/Lkzin0122/blob/output/github-contribution-grid-snake.svg)
 
 
 </p>
