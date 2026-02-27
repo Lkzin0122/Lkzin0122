@@ -2,7 +2,7 @@
 
 **`Técnico em Informatica`**
 
-Me chamo Lucas Bitencourt, tenho 18 anos e sou de São Paulo. Concluí o ensino médio no ITB, com o curso técnico em informática. Sou um entusiasta de tecnologia e programação, com experiência prática no desenvolvimento de aplicações front-end, back-end e mobile. Durante minha formação em Técnico em Informática, tive contato direto com programação de verdade, trabalhando com linguagens, frameworks e conceitos usados no mercado.
+Olá, me chamo Lucas Bitencourt e sou de São Paulo. Concluí o ensino médio no ITB, com o curso técnico em informática. Sou um entusiasta de tecnologia e programação, com experiência prática no desenvolvimento de aplicações front-end, back-end e mobile. Durante minha formação em Técnico em Informática, tive contato direto com programação de verdade, trabalhando com linguagens, frameworks e conceitos usados no mercado.
 
 Tenho interesse especial em entender como os sistemas funcionam por completo, desde a interface até a lógica por trás das aplicações e a comunicação com APIs. Gosto de aprender fazendo, errando, corrigindo e evoluindo — acredito que a prática constante é o caminho mais sólido para crescer na área de tecnologia.
 
