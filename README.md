@@ -23,7 +23,6 @@ Tenho interesse especial em entender como os sistemas funcionam por completo, de
             src="https://img.shields.io/badge/-Instagram-FF5722?style=flat&logo=Instagram&logoColor=white" 
         />
     </a>
-
 </p>
 
 ---
