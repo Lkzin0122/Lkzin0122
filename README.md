@@ -16,7 +16,7 @@ Tenho interesse especial em entender como os sistemas funcionam por completo, de
         />
     </a>
       <a>
-    <a href="https://www.instagram.com/luczz_bt/">
+    <a href="https://www.instagram.com/lucazz_bt/">
         <img 
             alt="Instagram" 
             title="Instagram" 
