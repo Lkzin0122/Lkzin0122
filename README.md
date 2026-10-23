@@ -1,123 +1,13 @@
-# 👩🏻‍💻 Lucas Bitencourt
+<h1 align="center">Olá, eu sou o Lucas Bitencourt 👨🏻‍💻</h1> <p align="center"> <img alt="Técnico em Informática | Front-end, Back-end e Mobile | Aprendendo fazendo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=T%C3%A9cnico+em+Inform%C3%A1tica;Front-end%2C+Back-end+e+Mobile;Aprendendo+fazendo%2C+errando+e+evoluindo" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/bitencourtlucas/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/lucazz_bt/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+👋 Sobre mim
 
-**`Técnico em Informatica`**
+Sou de São Paulo e concluí o ensino médio no ITB, com o curso técnico em Informática. Tenho experiência prática no desenvolvimento de aplicações front-end, back-end e mobile, e na formação tive contato direto com as linguagens, frameworks e conceitos usados no mercado.
 
-Olá, me chamo Lucas Bitencourt e sou de São Paulo. Concluí o ensino médio no ITB com o curso técnico em informática. Possuo experiência prática no desenvolvimento de aplicações front-end, back-end e mobile. Durante minha formação em Técnico em Informática, tive contato direto com programação de verdade, trabalhando com linguagens, frameworks e conceitos usados no mercado.
-
-Tenho interesse especial em entender como os sistemas funcionam por completo, desde a interface até a lógica por trás das aplicações e a comunicação com APIs. Gosto de aprender fazendo, errando, corrigindo e evoluindo — acredito que a prática constante é o caminho mais sólido para crescer na área de tecnologia.
-
-<p>
-    <a>
-    <a href="https://www.linkedin.com/in/bitencourtlucas/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=Linkedin&logoColor=white" 
-        />
-    </a>
-      <a>
-    <a href="https://www.instagram.com/lucazz_bt/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            src="https://img.shields.io/badge/-Instagram-FF5722?style=flat&logo=Instagram&logoColor=white" 
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Dart" 
-    title="Dart"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="microsoftsqlserver" 
-    title="microsoftsqlserver"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
-
-
-
-<br/>
-
-<br/>
-
-
-
-</p>
+🔭 Quero entender como um sistema funciona de ponta a ponta: da interface à lógica da aplicação e à comunicação com APIs.
+🌱 Aprendo fazendo, errando, corrigindo e evoluindo. Para mim, prática constante é o caminho mais sólido para crescer em tecnologia.
+💬 Vamos trocar uma ideia? Me chama no LinkedIn.
+🛠️ Linguagens e tecnologias
+<table align="center"> <tr> <td><b>Front-end</b></td> <td> <img alt="HTML" title="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" /> <img alt="CSS" title="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" /> <img alt="JavaScript" title="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" /> <img alt="React" title="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" /> </td> </tr> <tr> <td><b>Mobile</b></td> <td> <img alt="Flutter" title="Flutter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" /> <img alt="Dart" title="Dart" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" /> </td> </tr> <tr> <td><b>Back-end</b></td> <td> <img alt="Java" title="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" /> <img alt="Spring" title="Spring" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" /> </td> </tr> <tr> <td><b>Banco de dados</b></td> <td> <img alt="SQL Server" title="SQL Server" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> </td> </tr> <tr> <td><b>Ferramentas</b></td> <td> <img alt="Git" title="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" /> </td> </tr> </table>
+🎮 Meu gráfico de contribuições
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph.svg"> <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/Lkzin0122/SLkzin0122/output/pacman-contribution-graph.svg"> </picture> </p> <p align="center"><sub>Atualizado automaticamente todo dia por uma GitHub Action 👻</sub></p>
+<p align="center"> Obrigado por passar por aqui! Fique à vontade para explorar meus repositórios. ✨ </p>
