@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Front-end, Back-end e Mobile | Do pixel ao banco de dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=40&lines=Front-end%2C+Back-end+e+Mobile;Do+pixel+ao+banco+de+dados;Entendendo+sistemas+de+ponta+a+ponta;Aprendendo+fazendo%2C+errando+e+evoluindo" />
+  <img alt="Desenvolvedor Front-end | Aprendendo, errando, fazendo e evoluindo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedor+Front-end;Aprendendo%2C+errando%2C+fazendo+e+evoluindo" />
 </p>
 
 <p align="center">
