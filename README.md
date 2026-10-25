@@ -34,6 +34,8 @@
 
 <h2 align="center">🛠️ Linguagens e tecnologias</h2>
 
+<br>
+
 <p align="center">
   <img alt="HTML" title="HTML" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" />
