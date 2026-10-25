@@ -1,18 +1,68 @@
-<p align="center"> <img alt="Lucas Bitencourt - Técnico em Informática" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Lucas%20Bitencourt&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=T%C3%A9cnico%20em%20Inform%C3%A1tica&descSize=20&descAlignY=58" /> </p> <p align="center"> <img alt="Front-end, Back-end e Mobile | Do pixel ao banco de dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=40&lines=Front-end%2C+Back-end+e+Mobile;Do+pixel+ao+banco+de+dados;Entendendo+sistemas+de+ponta+a+ponta;Aprendendo+fazendo%2C+errando+e+evoluindo" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/bitencourtlucas/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/lucazz_bt/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <br> <h2 align="center">👋 Sobre mim</h2>
-js
-const lucas = {
-  nome: "Lucas Bitencourt",
-  local: "São Paulo",
-  formacao: "Técnico em Informática — ITB",
-  atuacao: ["Front-end", "Back-end", "Mobile"],
-  interesse: "Entender sistemas de ponta a ponta, da interface às APIs",
-  lema: "Aprender fazendo, errando, corrigindo e evoluindo",
-};
-<p align="center"> Na formação técnica tive contato direto com as linguagens, frameworks e conceitos usados no mercado.<br> Acredito que a <b>prática constante</b> é o caminho mais sólido para crescer em tecnologia. </p> <h3 align="center">Como eu enxergo uma aplicação</h3>
-🎨 InterfaceHTML · CSS · React · Flutter
-⚙️ LógicaJavaScript · Dart · Java
-🔌 APIsSpring
-🗄️ DadosSQL Server
-<br> <h2 align="center">🛠️ Linguagens e tecnologias</h2> <p align="center"> <p> <img alt="Front-end" src="https://img.shields.io/badge/Front--end-1F6FEB?style=for-the-badge" /><br><br> <img alt="HTML" title="HTML" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" /> <img alt="CSS" title="CSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" /> <img alt="JavaScript" title="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" /> <img alt="React" title="React" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" /> </p> <p> <img alt="Mobile" src="https://img.shields.io/badge/Mobile-8957E5?style=for-the-badge" /><br><br> <img alt="Flutter" title="Flutter" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" /> <img alt="Dart" title="Dart" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" /> </p> <p> <img alt="Back-end" src="https://img.shields.io/badge/Back--end-238636?style=for-the-badge" /><br><br> <img alt="Java" title="Java" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" /> <img alt="Spring" title="Spring" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" /> </p> <p> <img alt="Banco de dados" src="https://img.shields.io/badge/Banco%20de%20dados-DB6D28?style=for-the-badge" /><br><br> <img alt="SQL Server" title="SQL Server" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> </p> <p> <img alt="Ferramentas" src="https://img.shields.io/badge/Ferramentas-6E7681?style=for-the-badge" /><br><br> <img alt="Git" title="Git" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" /> </p> <br>
+<p align="center">
+  <img alt="Lucas Bitencourt - Técnico em Informática" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Lucas%20Bitencourt&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=T%C3%A9cnico%20em%20Inform%C3%A1tica&descSize=20&descAlignY=58" />
+</p>
 
-<h2 align="center">🎮 Meu gráfico de contribuições</h2> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SLkzin0122/Lkzin0122/output/pacman-contribution-graph.svg"> <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph.svg"> </picture> </p> <p align="center"><sub>Atualizado automaticamente todo dia por uma GitHub Action 👻</sub></p> <br> <p align="center"> Obrigado por passar por aqui! Fique à vontade para explorar meus repositórios. ✨ </p> <p align="center"> <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" /> </p>
+<p align="center">
+  <img alt="Front-end, Back-end e Mobile | Do pixel ao banco de dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=40&lines=Front-end%2C+Back-end+e+Mobile;Do+pixel+ao+banco+de+dados;Entendendo+sistemas+de+ponta+a+ponta;Aprendendo+fazendo%2C+errando+e+evoluindo" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bitencourtlucas/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lucazz_bt/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">👋 Sobre mim</h2>
+
+<p align="center">
+  Sou Técnico em Informática formado pela FIEB e atualmente curso Análise e Desenvolvimento de Sistemas.
+  Possuo base sólida em lógica de programação, programação orientada a objetos e desenvolvimento de aplicações web e mobile.
+  <br><br>
+  Tenho experiência prática com Dart, JavaScript e Java, além de frameworks como Spring Boot, React e Flutter.
+  Também possuo conhecimento em Git e GitHub, versionamento de código e noções de metodologias ágeis (Scrum).
+  <br><br>
+  Sou uma pessoa proativa, com facilidade de aprendizado, boa capacidade de resolução de problemas e interesse constante
+  em evoluir na área de TI.
+</p>
+
+<br>
+
+<h2 align="center">🛠️ Linguagens e tecnologias</h2>
+
+<p align="center">
+  <img alt="HTML" title="HTML" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" />
+  <img alt="Flutter" title="Flutter" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" />
+  <img alt="Dart" title="Dart" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" />
+  <img alt="Java" title="Java" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" />
+  <img alt="Spring Boot" title="Spring Boot" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" />
+  <img alt="SQL Server" title="SQL Server" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img alt="Git" title="Git" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" />
+</p>
+
+<br>
+
+<h2 align="center">🎮 Meu gráfico de contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SLkzin0122/Lkzin0122/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center"><sub>Atualizado automaticamente todo dia por uma GitHub Action 👻</sub></p>
+
+<br>
+
+<p align="center">
+  Obrigado por passar por aqui! Fique à vontade para explorar meus repositórios. ✨
+</p>
