@@ -49,7 +49,9 @@ Gosto de transformar ideias em experiências simples, funcionais e bem construí
   <img alt="Git" title="Git" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" />
 </div>
 
-## 🎮 Meu gráfico de contribuições
+##
+<br>
+
 
 <div align="center">
   <picture>
@@ -63,9 +65,3 @@ Gosto de transformar ideias em experiências simples, funcionais e bem construí
   <sub>Atualizado automaticamente todos os dias por uma GitHub Action 👻</sub>
 </div>
 
-<br>
-
-<div align="center">
-  <strong>Obrigado por passar por aqui!</strong><br>
-  <sub>Fique à vontade para explorar meus repositórios e acompanhar minha evolução. ✨</sub>
-</div>
