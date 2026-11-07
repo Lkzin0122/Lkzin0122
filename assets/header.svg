@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Bitencourt — Desenvolvedor Front-end</title>
+  <desc id="desc">Banner em tons de vermelho e laranja. Interfaces com propósito, da web ao mobile. Um editor de código apresenta Lucas, seu foco em front-end e sua stack com React e Flutter.</desc>
+  <defs>
+    <linearGradient id="accent" x1="56" y1="180" x2="615" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F87171"/>
+      <stop offset="0.55" stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="720" y1="84" x2="1218" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F87171" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#FB923C" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FB923C" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1130 145) rotate(145) scale(630 420)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="bounds"><rect x="1" y="1" width="1278" height="438" rx="23"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="440" fill="#0D1117"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <rect width="1280" height="440" fill="url(#glow)"/>
+    <path d="M0 0H1280" stroke="#F97316" stroke-width="5"/>
+    <circle cx="1195" cy="95" r="190" stroke="#FB923C" stroke-opacity="0.055"/>
+    <circle cx="1195" cy="95" r="250" stroke="#FB923C" stroke-opacity="0.04"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="56" y="49" fill="#E2E8F0" font-size="15" font-weight="700" letter-spacing="2">LB<tspan fill="#FB923C">.</tspan></text>
+      <path d="M96 34V52" stroke="#30363D"/>
+      <text x="112" y="48" fill="#94A3B8" font-size="11" letter-spacing="2.4">IDEIAS EM CÓDIGO</text>
+      <circle cx="1109" cy="43" r="4" fill="#FB923C"/>
+      <text x="1123" y="47" fill="#CBD5E1" font-size="11" letter-spacing="1.2">@Lkzin0122</text>
+      <rect x="56" y="99" width="6" height="6" rx="2" fill="#FB923C"/>
+      <text x="75" y="107" fill="#FDBA74" font-size="12" font-weight="600" letter-spacing="2.6">DESENVOLVEDOR FRONT-END</text>
+      <text x="51" y="194" fill="#F8FAFC" font-size="81" font-weight="800" letter-spacing="-3.5">Lucas</text>
+      <text x="51" y="278" fill="url(#accent)" font-size="81" font-weight="800" letter-spacing="-3.5">Bitencourt<tspan fill="#FB923C">.</tspan></text>
+      <text x="56" y="323" fill="#CBD5E1" font-size="22" font-weight="400">Interfaces com propósito.</text>
+      <text x="56" y="351" fill="#94A3B8" font-size="17">Da web ao mobile, uma ideia de cada vez.</text>
+      <path d="M56 390H1224" stroke="#30363D" stroke-opacity="0.7"/>
+      <text x="56" y="416" fill="#94A3B8" font-size="10" font-weight="600" letter-spacing="2">APRENDER. CONSTRUIR. EVOLUIR.</text>
+      <text x="1224" y="416" text-anchor="end" fill="#94A3B8" font-size="10" letter-spacing="1.5">WEB / MOBILE / CODE</text>
+    </g>
+    <rect x="712" y="98" width="512" height="265" rx="14" fill="#010409" fill-opacity="0.24"/>
+    <rect x="704" y="90" width="512" height="265" rx="14" fill="#11161E" stroke="url(#edge)"/>
+    <path d="M705 135H1215" stroke="#30363D" stroke-opacity="0.7"/>
+    <circle cx="727" cy="113" r="4" fill="#F87171"/>
+    <circle cx="743" cy="113" r="4" fill="#FBBF24"/>
+    <circle cx="759" cy="113" r="4" fill="#4ADE80"/>
+    <text x="960" y="117" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">developer.js</text>
+    <path d="M1183 108L1188 113L1183 118M1172 108L1167 113L1172 118" stroke="#64748B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g font-family="Consolas, 'Liberation Mono', monospace" font-size="15">
+      <g fill="#64748B" font-size="12" text-anchor="end">
+        <text x="735" y="169">01</text>
+        <text x="735" y="197">02</text>
+        <text x="735" y="225">03</text>
+        <text x="735" y="253">04</text>
+        <text x="735" y="281">05</text>
+        <text x="735" y="309">06</text>
+      </g>
+      <text x="754" y="169"><tspan fill="#F87171">const </tspan><tspan fill="#F8FAFC">developer </tspan><tspan fill="#94A3B8">= {</tspan></text>
+      <text x="774" y="197"><tspan fill="#CBD5E1">name: </tspan><tspan fill="#FDBA74">"Lucas Bitencourt"</tspan><tspan fill="#94A3B8">,</tspan></text>
+      <text x="774" y="225"><tspan fill="#CBD5E1">focus: </tspan><tspan fill="#FDBA74">"Front-end"</tspan><tspan fill="#94A3B8">,</tspan></text>
+      <text x="774" y="253"><tspan fill="#CBD5E1">stack: </tspan><tspan fill="#94A3B8">[</tspan><tspan fill="#FDBA74">"React"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDBA74">"Flutter"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="774" y="281"><tspan fill="#CBD5E1">mindset: </tspan><tspan fill="#FDBA74">"Sempre evoluindo"</tspan></text>
+      <text x="754" y="309" fill="#94A3B8">};<tspan fill="#FB923C"> ▌</tspan></text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="439" rx="23.5" stroke="#30363D"/>
+</svg>
