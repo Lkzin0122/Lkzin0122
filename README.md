@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Lucas Bitencourt — Desenvolvedor Front-end. Interfaces com propósito, da web ao mobile." />
+  <img src="assets/header.svg" width="100%" alt="Lucas Bitencourt — Desenvolvedor front-end. Interfaces com propósito, da web ao mobile." />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bitencourtlucas/">
-    <img src="https://img.shields.io/badge/LinkedIn-VER%20PERFIL-EF4444?style=for-the-badge&amp;labelColor=161B22" alt="Ver meu perfil no LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-VAMOS_CONVERSAR-E9AD87?style=for-the-badge&amp;labelColor=202124" alt="Vamos conversar no LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Lkzin0122?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-EXPLORAR%20PROJETOS-FB923C?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161B22" alt="Explorar meus projetos no GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-MEUS_PROJETOS-E9AD87?style=for-the-badge&amp;logo=github&amp;logoColor=E9AD87&amp;labelColor=202124" alt="Explore meus projetos no GitHub" />
   </a>
 </div>
 
@@ -18,11 +18,11 @@
 
 <div align="center">
   <a href="#sobre-mim">Sobre mim</a>
-  &nbsp; · &nbsp;
-  <a href="#tecnologias">Tecnologias</a>
-  &nbsp; · &nbsp;
-  <a href="#contribuições">Contribuições</a>
-  &nbsp; · &nbsp;
+  &nbsp; / &nbsp;
+  <a href="#minha-stack">Stack</a>
+  &nbsp; / &nbsp;
+  <a href="#código-em-movimento">Atividade</a>
+  &nbsp; / &nbsp;
   <a href="#vamos-conversar">Contato</a>
 </div>
 
@@ -30,99 +30,54 @@
 
 ## Sobre mim
 
-Sou **Lucas Bitencourt** e meu foco é o **desenvolvimento front-end**. Gosto de transformar ideias em experiências simples, funcionais e bem construídas, na **web e no mobile**.
+Sou **Lucas Bitencourt**, desenvolvedor com foco em **front-end**. Gosto de transformar ideias em interfaces que unem cuidado visual, simplicidade e uma boa experiência — na **web e no mobile**.
 
-- **Formação:** Técnico em Informática pela **FIEB**; cursando **Análise e Desenvolvimento de Sistemas**.
-- **Na prática:** aplicações com **React e Flutter**, além de experiência com Java e Spring Boot.
-- **Minha base:** lógica de programação, orientação a objetos, Git, GitHub e metodologias ágeis.
+- **Formação** &nbsp; Técnico em Informática pela **FIEB** e cursando **Análise e Desenvolvimento de Sistemas**.
+- **Na prática** &nbsp; Aplicações com **React e Flutter**, além de experiência com **Java e Spring Boot**.
+- **Minha base** &nbsp; Lógica de programação, orientação a objetos e vontade de aprender construindo.
 
-> Aprendendo, errando, fazendo e evoluindo — uma linha de código de cada vez.
+> Cada projeto é uma oportunidade de fazer melhor que ontem.
 
 <br>
 
-## Tecnologias
+## Minha stack
 
-<table>
-  <thead>
-    <tr>
-      <th align="center" width="33%">Front-end</th>
-      <th align="center" width="33%">Mobile</th>
-      <th align="center" width="33%">Back-end &amp; dados</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />
-        <br><br>
-        <sub>HTML · CSS · JavaScript · React</sub>
-        <br><br>
-      </td>
-      <td align="center" valign="top">
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" title="Dart" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" title="Flutter" />
-        <br><br>
-        <sub>Dart · Flutter</sub>
-        <br><br>
-      </td>
-      <td align="center" valign="top">
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL Server" title="SQL Server" />
-        <br><br>
-        <sub>Java · Spring Boot · SQL Server</sub>
-        <br><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
+As tecnologias que uso para conectar uma ideia à experiência de quem está do outro lado da tela.
 
 <div align="center">
-  <sub>FERRAMENTAS &amp; PRÁTICAS</sub>
+  <img src="assets/stack.svg" width="100%" alt="Front-end: React, JavaScript, HTML e CSS. Mobile: Flutter e Dart. Back-end e dados: Java, Spring Boot e SQL Server." />
   <br><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-202124?style=flat-square&amp;logo=git&amp;logoColor=E9AD87" alt="Git" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-202124?style=flat-square&amp;logo=github&amp;logoColor=E9AD87" alt="GitHub" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Metodologias_ágeis-161B22?style=flat-square&amp;logoColor=white" alt="Metodologias ágeis" />
+  <img src="https://img.shields.io/badge/Metodologias_ágeis-202124?style=flat-square" alt="Metodologias ágeis" />
 </div>
 
 <br>
 
-## Contribuições
+## Código em movimento
 
-Um pouco do meu ritmo por aqui, com uma dose de nostalgia.
+Um registro do que venho construindo, uma contribuição de cada vez.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Lkzin0122/Lkzin0122/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man percorrendo meu gráfico de contribuições no GitHub" />
-  </picture>
+  <a href="https://github.com/Lkzin0122?tab=overview">
+    <img src="assets/activity.svg" width="100%" alt="Painel animado das minhas contribuições no GitHub, com calendário anual, dias ativos, maior sequência e atividade das últimas 12 semanas." />
+  </a>
   <br><br>
-  <sub>Uma contribuição de cada vez. Um nível a mais de experiência. 👾</sub>
+  <sub>Pequenos passos, progresso constante. Atualizado diariamente.</sub>
 </div>
 
 <br>
 
 ## Vamos conversar
 
-Curte desenvolvimento web, mobile ou tem uma ideia para trocar? Me encontre no **[LinkedIn](https://www.linkedin.com/in/bitencourtlucas/)** ou explore meus **[projetos no GitHub](https://github.com/Lkzin0122?tab=repositories)**.
+Tem uma ideia, um projeto ou quer trocar experiências sobre desenvolvimento? Me encontre no **[LinkedIn](https://www.linkedin.com/in/bitencourtlucas/)**.
+
+Você também pode explorar o que estou construindo nos meus **[repositórios](https://github.com/Lkzin0122?tab=repositories)**.
 
 <br>
 
-<div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Sempre há algo novo para construir. Lucas Bitencourt — @Lkzin0122." />
-</div>
+<a href="https://www.linkedin.com/in/bitencourtlucas/">
+  <img src="assets/footer.svg" width="100%" alt="Boas ideias merecem sair do papel. Vamos conversar no LinkedIn." />
+</a>

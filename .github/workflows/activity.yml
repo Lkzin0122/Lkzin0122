@@ -1,0 +1,56 @@
+name: Atualizar painel de atividade
+
+on:
+  schedule:
+    # Todos os dias às 06:17 no horário de Brasília (09:17 UTC).
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - ".github/workflows/activity.yml"
+      - "scripts/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-activity-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+      - name: Preparar o Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: "3.13"
+
+      - name: Validar o gerador
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Gerar o painel com as contribuições reais
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_activity.py --user "$PROFILE_USERNAME"
+
+      - name: Salvar o painel atualizado
+        run: |
+          git add assets/activity.svg
+          if git diff --cached --quiet; then
+            echo "O painel já está atualizado."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: atualizar painel de contribuições"
+          git pull --rebase
+          git push
