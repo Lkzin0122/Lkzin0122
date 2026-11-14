@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="528" viewBox="0 0 1280 528" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Código em movimento — @Lkzin0122</title>
-  <desc id="desc">De 09 NOV 2025 a 13 NOV 2026: 118 contribuições, 31 dias ativos e maior sequência de 7 dias. Cada quadrado representa um dia; tons mais claros indicam mais contribuições. A linha mostra os totais das últimas 12 semanas, incluindo a semana atual.</desc>
+  <desc id="desc">De 09 NOV 2025 a 14 NOV 2026: 125 contribuições, 32 dias ativos e maior sequência de 7 dias. Cada quadrado representa um dia; tons mais claros indicam mais contribuições. A linha mostra os totais das últimas 12 semanas, incluindo a semana atual.</desc>
   <defs>
     <linearGradient id="area" x1="0" y1="168" x2="0" y2="233" gradientUnits="userSpaceOnUse"><stop stop-color="#E9AD87" stop-opacity=".24"/><stop offset="1" stop-color="#E9AD87" stop-opacity="0"/></linearGradient>
     <linearGradient id="scan"><stop stop-color="#F2C49F" stop-opacity="0"/><stop offset=".8" stop-color="#F2C49F" stop-opacity=".10"/><stop offset="1" stop-color="#F2C49F" stop-opacity="0"/></linearGradient>
@@ -25,14 +25,14 @@
   <path d="M48 124H1232M48 253H1232" stroke="#2A2B2E"/>
   <path d="M263 155V226M490 155V226M762 155V226" stroke="#2A2B2E"/>
   <g fill="#F2EDE6" font-size="47" font-weight="600" letter-spacing="-2">
-    <text x="46" y="199">118</text><text x="302" y="199">31</text><text x="530" y="199">7<tspan fill="#8F867C" font-size="20" letter-spacing="0"> dias</tspan></text>
+    <text x="46" y="199">125</text><text x="302" y="199">32</text><text x="530" y="199">7<tspan fill="#8F867C" font-size="20" letter-spacing="0"> dias</tspan></text>
   </g>
   <g class="muted"><text x="48" y="226">CONTRIBUIÇÕES NO PERÍODO</text><text x="304" y="226">DIAS ATIVOS</text><text x="532" y="226">MAIOR SEQUÊNCIA</text></g>
   <text x="846" y="155" class="muted">ÚLTIMAS 12 SEMANAS</text>
   <path d="M846 233H1216" stroke="#2A2B2E"/>
-  <path d="M846.0,224.0 L879.6,224.0 L913.3,224.0 L946.9,224.0 L980.5,224.0 L1014.2,206.7 L1047.8,209.6 L1081.5,212.4 L1115.1,186.4 L1148.7,172.0 L1182.4,203.8 L1216.0,206.7 L1216.0,233 L846,233 Z" fill="url(#area)"/>
-  <path d="M846.0,224.0 L879.6,224.0 L913.3,224.0 L946.9,224.0 L980.5,224.0 L1014.2,206.7 L1047.8,209.6 L1081.5,212.4 L1115.1,186.4 L1148.7,172.0 L1182.4,203.8 L1216.0,206.7" stroke="#E9AD87" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle class="pulse" cx="1216.0" cy="206.7" r="4" fill="#F2C49F"/>
+  <path d="M846.0,224.0 L879.6,224.0 L913.3,224.0 L946.9,224.0 L980.5,224.0 L1014.2,206.7 L1047.8,209.6 L1081.5,212.4 L1115.1,186.4 L1148.7,172.0 L1182.4,203.8 L1216.0,186.4 L1216.0,233 L846,233 Z" fill="url(#area)"/>
+  <path d="M846.0,224.0 L879.6,224.0 L913.3,224.0 L946.9,224.0 L980.5,224.0 L1014.2,206.7 L1047.8,209.6 L1081.5,212.4 L1115.1,186.4 L1148.7,172.0 L1182.4,203.8 L1216.0,186.4" stroke="#E9AD87" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="pulse" cx="1216.0" cy="186.4" r="4" fill="#F2C49F"/>
   <g class="muted" font-size="10">
     <text x="84" y="290">NOV</text>
     <text x="147" y="290">DEZ</text>
@@ -420,10 +420,11 @@
     <rect class="day" x="1176" y="373" width="17" height="17" rx="4" fill="#232427"><title>11/11/2026: 0 contribuições</title></rect>
     <rect class="day" x="1176" y="394" width="17" height="17" rx="4" fill="#232427"><title>12/11/2026: 0 contribuições</title></rect>
     <rect class="day" x="1176" y="415" width="17" height="17" rx="4" fill="#232427"><title>13/11/2026: 0 contribuições</title></rect>
+    <rect class="day" x="1176" y="436" width="17" height="17" rx="4" fill="#CE9066"><title>14/11/2026: 7 contribuições</title></rect>
   </g>
   <g clip-path="url(#calendar)"><rect class="scan" x="84" y="310" width="82" height="143" fill="url(#scan)"/></g>
-  <text x="48" y="499" class="muted" letter-spacing=".6">09 NOV 2025 — 13 NOV 2026</text>
-  <text x="551" y="499" fill="#817B74" font-size="10" letter-spacing=".7">DADOS ATÉ 13 NOV 2026</text>
+  <text x="48" y="499" class="muted" letter-spacing=".6">09 NOV 2025 — 14 NOV 2026</text>
+  <text x="551" y="499" fill="#817B74" font-size="10" letter-spacing=".7">DADOS ATÉ 14 NOV 2026</text>
   <text x="978" y="499" fill="#9D978F" font-size="11">Menos</text>
     <rect x="1032" y="487" width="16" height="16" rx="4" fill="#232427"/>
     <rect x="1054" y="487" width="16" height="16" rx="4" fill="#594033"/>
